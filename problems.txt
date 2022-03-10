@@ -1,6 +1,4 @@
 Top to bottom -> Least difficulty to greatest
 
-dmopc15c7p2
-ccc19j1
-coci06c5p1
-ccc00s1
+1. dmopc15c7p2
+2. dmopc14c5p1
