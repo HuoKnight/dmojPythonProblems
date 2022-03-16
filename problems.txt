@@ -4,3 +4,9 @@ Top to bottom -> Least difficulty to greatest
 2. dmopc14c5p1
 3. ccc19j1
 4. ccc18j1
+5. coci06c5p1
+6. ccc18j2
+7. coci16c1p1
+8. ccc00s1
+9. ccc08j2
+10. coci08c3p2
