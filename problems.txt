@@ -13,5 +13,6 @@ Top to bottom -> Least difficulty to greatest
 11. ccc18s1
 12. ecoo17r1p1
 13. ecoo17r3p1
-14. 
-15. ccc99s1
+14. ccc99s1
+15. https://acm.timus.ru/problem.aspx?space=1&num=2144
+16. http://usaco.org/index.php?page=viewproblem2&cpid=987 (No submission available)
